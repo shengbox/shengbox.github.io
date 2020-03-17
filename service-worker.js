@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3b0fb41aca8db8b041d128fd635afdae.js"
+  "/precache-manifest.ad9b040b5bb55373217b6bd47d6c436e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fams-admin"});
